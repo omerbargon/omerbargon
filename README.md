@@ -59,17 +59,12 @@ Hello there! 👋 Welcome to my GitHub profile ♥️
 <img src="svg/wordpress.svg" height="25"/>
  </div><br>
 
-**8. Data Visualization:**
-<div style="display: flex; flex-wrap: wrap; gap: 8px;">
-<img src="svg/chartjs.svg" height="25"/>
-</div><br>
-
-**9. Software:**
+**8. Software:**
 <div style="display: flex; flex-wrap: wrap; gap: 8px;">
 <img src="svg/postman.svg" height="25"/>
 </div><br>
 
-**10. Other:**
+**9. Other:**
 <div style="display: flex; flex-wrap: wrap; gap: 8px;">
 <img src="svg/git.svg" height="25"/>
 <img src="svg/linux.svg" height="25"/>

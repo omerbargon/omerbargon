@@ -10,14 +10,15 @@ Hello there! 👋 Welcome to my GitHub profile ♥️
 
 **1. Programming Languages:**
 
+<div style="display: flex; flex-wrap: wrap; gap: 8px;">
 <img src="svg/typescript.svg" height="25"/>
 <img src="svg/javascript.svg" height="25"/> 
 <img src="svg/python.svg" height="25"/> 
 <img src="svg/php.svg" height="25"/>
-
+</div><br>
 
 **2. Frontend Development:**
-
+<div style="display: flex; flex-wrap: wrap; gap: 8px;">
 <img src="svg/html5.svg" height="25"/>
 <img src="svg/css3.svg" height="25"/>
 <img src="svg/react.svg" height="25"/> 
@@ -27,41 +28,49 @@ Hello there! 👋 Welcome to my GitHub profile ♥️
 <img src="svg/reactbootstrap.svg" height="25"/> 
 <img src="svg/tailwindcss.svg" height="25"/> 
 <img src="svg/bootstrap.svg" height="25"/>
-
+</div><br>
 
 **3. Backend Development:**
-
+<div style="display: flex; flex-wrap: wrap; gap: 8px;">
 <img src="svg/laravel.svg" height="25"/> 
 <img src="svg/symfony.svg" height="25"/>
 <img src="svg/codeigniter.svg" height="25"/>
 <img src="svg/nginx.svg" height="25"/>
+</div><br>
 
 **4. Backend as a Service(BaaS):**
-
+<div style="display: flex; flex-wrap: wrap; gap: 8px;">
 <img src="svg/firebase.svg" height="25"/>
+</div><br>
 
 **5. Database:**
-
+<div style="display: flex; flex-wrap: wrap; gap: 8px;">
 <img src="svg/mongodb.svg" height="25"/>
 <img src="svg/mysql.svg" height="25"/>
+</div><br>
 
 **6. DevOps:**
-
+<div style="display: flex; flex-wrap: wrap; gap: 8px;">
 <img src="svg/docker.svg" height="25"/>
+</div><br>
 
 **7. CMS:**
-
+<div style="display: flex; flex-wrap: wrap; gap: 8px;">
 <img src="svg/wordpress.svg" height="25"/>
- 
-**8. Data Visualization:**
+ </div><br>
 
+**8. Data Visualization:**
+<div style="display: flex; flex-wrap: wrap; gap: 8px;">
 <img src="svg/chartjs.svg" height="25"/>
+</div><br>
 
 **9. Software:**
-
+<div style="display: flex; flex-wrap: wrap; gap: 8px;">
 <img src="svg/postman.svg" height="25"/>
+</div><br>
 
 **10. Other:**
-
+<div style="display: flex; flex-wrap: wrap; gap: 8px;">
 <img src="svg/git.svg" height="25"/>
 <img src="svg/linux.svg" height="25"/>
+</div><br>

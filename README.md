@@ -59,13 +59,12 @@ Hello there! 👋 Welcome to my GitHub profile ♥️
 <img src="svg/wordpress.svg" height="25"/>
  </div><br>
 
-**8. Software:**
-<div style="display: flex; flex-wrap: wrap; gap: 8px;">
-<img src="svg/postman.svg" height="25"/>
-</div><br>
-
-**9. Other:**
+**8. Other:**
 <div style="display: flex; flex-wrap: wrap; gap: 8px;">
 <img src="svg/git.svg" height="25"/>
 <img src="svg/linux.svg" height="25"/>
+ <img src="svg/postman.svg" height="25"/>
 </div><br>
+
+## 📧 Contact
+Feel free to reach out to me at [omerbargon@gmail.com](mailto:omerbargon@gmail.com) for collaborations or discussions!

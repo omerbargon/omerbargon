@@ -3,6 +3,9 @@ Hello there! 👋 Welcome to my GitHub profile ♥️
 ## 👁️ Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=green)
 
+## 📊 GitHub Profile Summary
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omerbargon&theme=dracula)
+
 ## 📈 Contributions 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omerbargon&theme=dark)](https://git.io/streak-stats)
 

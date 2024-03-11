@@ -1,6 +1,5 @@
 Hello there! 👋 Welcome to my GitHub profile ♥️ 
 
-## 👁️ Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=green)
 
 ## 📊 Statistics

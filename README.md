@@ -36,6 +36,7 @@ Hello there! 👋 Welcome to my GitHub profile ♥️
 <img src="svg/laravel.svg" height="36"/> 
 <img src="svg/symfony.svg" height="36"/>
 <img src="svg/codeigniter.svg" height="36"/>
+<img src="svg/nodejs.svg" height="36"/>
 <img src="svg/nginx.svg" height="36"/>
 </div><br>
 

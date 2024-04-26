@@ -64,6 +64,7 @@ Hello there! 👋 Welcome to my GitHub profile ♥️
 **8. Other:**
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 <img src="svg/git.svg" height="36"/>
+<img src="svg/bitbucket.svg" height="36"/>
 <img src="svg/linux.svg" height="36"/>
  <img src="svg/postman.svg" height="36"/>
 </div><br>

@@ -21,7 +21,6 @@ Hello there! 👋 Welcome to my GitHub profile ♥️
 <img src="svg/html5.svg" height="36"/>
 <img src="svg/css3.svg" height="36"/>
 <img src="svg/react.svg" height="36"/> 
-<img src="svg/angular.svg" height="36"/>
 <img src="svg/vue.svg" height="36"/>
 <img src="svg/nextjs.svg" height="36"/>
 <img src="svg/antdesign.svg" height="36"/>
@@ -35,8 +34,6 @@ Hello there! 👋 Welcome to my GitHub profile ♥️
 <div style="display: flex; flex-wrap: wrap; gap: 8px;">
 <img src="svg/laravel.svg" height="36"/> 
 <img src="svg/symfony.svg" height="36"/>
-<img src="svg/codeigniter.svg" height="36"/>
-<img src="svg/nodejs.svg" height="36"/>
 <img src="svg/nginx.svg" height="36"/>
 </div><br>
 

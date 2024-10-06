@@ -12,7 +12,6 @@ Hello there! 👋 Welcome to my GitHub profile ♥️
 <div style="display: flex; flex-wrap: wrap; gap: 8px;">
 <img src="svg/typescript.svg" height="36"/>
 <img src="svg/javascript.svg" height="36"/> 
-<img src="svg/python.svg" height="36"/> 
 <img src="svg/php.svg" height="36"/>
 </div><br>
 

@@ -7,7 +7,7 @@ Hello there! 👋 Welcome to my GitHub profile ♥️
 
 ## 🏆 Achievements
 - [#90](https://committers.top/lebanon_private) Most Active Users in Lebanon
-- [#90](https://commits.toino.pt/LB/private) Top Private Contributors in Lebanon
+- [#86](https://commits.toino.pt/LB/private) Top Private Contributors in Lebanon
 
 ## 💼 Technologies
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">

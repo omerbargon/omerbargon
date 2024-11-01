@@ -37,7 +37,6 @@ Hello there! 👋 Welcome to my GitHub profile ♥️
 <img src="svg/mongodb.svg" height="36"/>
 <img src="svg/postgresql.svg" height="36"/>
 <img src="svg/prisma.svg" height="36"/>
-<img src="svg/cypress.svg" height="36"/>
 <img src="svg/git.svg" height="36"/>
 <img src="svg/wasp.png" height="36"/>
 </div><br>

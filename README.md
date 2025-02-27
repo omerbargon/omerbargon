@@ -5,10 +5,6 @@ Hello there! 👋 Welcome to my GitHub profile ♥️
 ## 📈 Contributions 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omerbargon&theme=dark)](https://git.io/streak-stats)
 
-## 🏆 Achievements
-- [#118](https://committers.top/lebanon_private) Most Active Users in Lebanon
-- [#86](https://commits.toino.pt/LB/private) Top Private Contributors in Lebanon
-
 ## 💼 Technologies
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
 <img src="svg/typescript.svg" height="36"/>
